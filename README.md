@@ -1,4 +1,6 @@
-# DWM Rice by Sanjith
+<div align="center">
+<h1>DWM Rice by Sanjith</h1>
+</div>
 
 This is my old rice for [DWM](https://dwm.suckless.org/). While I’ve since moved on from DWM, I’m keeping this repo around — both as a personal reference and in case others find it useful.
 
